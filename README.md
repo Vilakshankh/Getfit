@@ -1,7 +1,7 @@
 # getFit
 
 ## App Description
-Fitness App is a user-friendly application designed to assist individuals in the gym by providing personalized workout plans based on their requirements and goals. The app also features user profiles for tracking workout progress and food intake.
+getFit is a user-friendly application designed to assist individuals in the gym by providing personalized workout plans based on their requirements and goals. The app also features user profiles for tracking workout progress and food intake.
 
 ## Target Audience
 The target audience includes individuals who need guidance in the gym without hiring a personal trainer. The app aims to provide a concise guide for independent gym workouts.
